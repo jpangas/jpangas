@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpangas&label=Profile%20views&color=0e75b6&style=flat" alt="jpangas" /> </p>
 
 
--  👨‍💻 I’m currently working on applied AI research in NLP, focusing on the use of LLMs in Software Engineering.
+-  👨‍💻 I’m an AI Engineer and Master’s student conducting applied AI research in intelligent agents, and AI for Software Engineering.
 
-- 🤝 Invite me to contribute to any projects involving **Python, NLP, Machine Learning, LLMs, or AI for Software Engineering**
+- 🤝  Open to collaborating on projects involving AI Engineering, LLMs, Agentic AI Systems, NLP, Machine Learning, and AI-powered developer tools.
 
-- 💬 Ask me about **LLMs, NLP, Machine Learning, and AI in software engineering**
+- 💬  Ask me about LLMs, AI Engineering, NLP, Machine Learning, AI Agents, and AI for Software Engineering.
 
 - 📄 Know about my experiences [on LinkedIn](https://www.linkedin.com/in/johnpangas/)
 
